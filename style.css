@@ -511,6 +511,9 @@ footer p{
     flex-direction: column;
     gap: 0.8rem;
   }
+  .logo h1{
+    font-size: 1.25rem;
+  }
 
   /* hero */
   .content-v h1{
